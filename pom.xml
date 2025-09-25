@@ -1647,6 +1647,7 @@
         <version.jaxb.api>2.4.0-b180830.0359</version.jaxb.api>
         <com.sun.jaxb.version>2.3.0</com.sun.jaxb.version>
         <com.sun.jaxb.impl.version>2.3.1</com.sun.jaxb.impl.version>
+<!--        <synapse.version>4.0.0-wso2v249-SNAPSHOT</synapse.version>-->
         <synapse.version>4.0.0-wso2v248</synapse.version>
         <imp.pkg.version.synapse>[4.0.0, 4.0.1)</imp.pkg.version.synapse>
         <carbon.mediation.version>4.7.253</carbon.mediation.version>
@@ -1690,7 +1691,7 @@
         <xmlsec.version>1.5.6-wso2v2</xmlsec.version>
         <jsonassert.version>1.5.1</jsonassert.version>
         <saml.common.util.version.range>[1.0.0,2.0.0)</saml.common.util.version.range>
-        <bouncycastle.orbit.version>1.78.1.wso2v1</bouncycastle.orbit.version>
+<!--        <bouncycastle.orbit.version>1.78.1.wso2v1</bouncycastle.orbit.version>-->
         <orbit.version.poi.ooxml>5.3.0.wso2v1</orbit.version.poi.ooxml>
         <org.wso2.json.version>3.0.0.wso2v4</org.wso2.json.version>
         <version.equinox.http.servlet>1.1.400.v20130418-1354</version.equinox.http.servlet>

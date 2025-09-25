@@ -332,8 +332,6 @@ org.wso2.carbon.relay_4.7.244.jar                                               
 arq_1.0.0.wso2v1.jar                                                                                bundle         bsd
 icu4j-3.8.jar                                                                                       jarinbundle    icu
 org.eclipse.equinox.common_3.8.0.v20160509-1230.jar                                                 bundle         epl1
-bcprov-jdk18on_1.78.1.wso2v1.jar                                                                    bundle         bouncy
-bcprov-jdk18on-1.78.1.jar                                                                           jarinbundle    bouncy
 opentelemetry-all_1.11.0.wso2v6.jar                                                                 bundle         apache2
 org.sat4j.core_2.3.5.v201308161310.jar                                                              bundle         epl1 + lgpl2
 org.eclipse.equinox.p2.artifact.repository_1.1.300.v20131211-1531.jar                               bundle         epl1
@@ -376,5 +374,3 @@ lgpl2          Lesser General Public License Version 2.1
                http://www.gnu.org/licenses/lgpl-2.1.php
 bsd3           Berkeley License - 3
                http://opensource.org/licenses/BSD-3-Clause
-bouncy         Bouncy Castle License
-               http://www.bouncycastle.org/licence.html
